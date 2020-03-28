@@ -2,14 +2,14 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+![Screenshot (164)](https://user-images.githubusercontent.com/46542515/77829866-d0e38b00-7135-11ea-9540-21274e9aac7c.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- HTML,
-- CSS,
+- HTML
+- CSS
 - JAVASCRIPT
 
 ## Live Demo
