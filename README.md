@@ -1,4 +1,4 @@
-# Personal_Portfolio# Project Name
+# Personal_Portfolio
 
 > One paragraph statement about the project.
 
