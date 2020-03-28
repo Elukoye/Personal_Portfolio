@@ -1,6 +1,6 @@
 # Personal_Portfolio
 
-This project showcases my side projects.It is a personal portfolio project.
+This project showcases some of the side projects I have worked on/collaborated on.It is a personal portfolio project.
 
 
 ![Screenshot (164)](https://user-images.githubusercontent.com/46542515/77829866-d0e38b00-7135-11ea-9540-21274e9aac7c.png)
