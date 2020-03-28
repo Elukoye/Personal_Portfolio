@@ -4,7 +4,7 @@
 
 ![Screenshot (164)](https://user-images.githubusercontent.com/46542515/77829866-d0e38b00-7135-11ea-9540-21274e9aac7c.png)
 
-Additional description about the project and its features.
+This project showcases my side projects.It is a personal portfolio project.
 
 ## Built With
 
